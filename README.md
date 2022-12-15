@@ -1,4 +1,23 @@
-Challenge: Create a 404 not found page following the design. The page should be responsive. Don’t look at the existing solution. Fulfill user stories below:
+# DevChallenges
 
-User story: I can see a page following the given design
+## 01 - 404 page
+
+### Author of this work
+
+Tino Reyna
+
+### Technologies used for this project
+
+* HTML + CSS
+* VS Code
+
+### Methodologies used for this project
+
+* Box modelling
+* Flex
+* Sizing hack for rem unit preference
+
+### How it works
+
+It's a responsive 404 page based in one breakpoints: mobile and tablet/desktop (minimum width of 768px).
 
