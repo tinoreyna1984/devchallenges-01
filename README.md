@@ -6,8 +6,6 @@ Solution for a challenge from [Devchallenges.io](http://devchallenges.io).
 [Solution](https://github.com/tinoreyna1984/devchallenges-01) | 
 [Challenge](https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U)
 
-<!-- TABLE OF CONTENTS -->
-
 ## Table of Contents
 
 - [Overview](#overview)
