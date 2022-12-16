@@ -1,23 +1,41 @@
-# DevChallenges
+#404 Not Found page
 
-## 01 - 404 page
+Solution for a challenge from [Devchallenges.io](http://devchallenges.io).
 
-### Author of this work
+[Demo](https://tino-devchallenges-01.netlify.app) | 
+[Solution](https://github.com/tinoreyna1984/devchallenges-01) | 
+[Challenge](https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U)
 
-Tino Reyna
+<!-- TABLE OF CONTENTS -->
 
-### Technologies used for this project
+## Table of Contents
 
-* HTML + CSS
-* VS Code
+- [Overview](#overview)
+- [Built With](#built-with)
+- [Features](#features)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
 
-### Methodologies used for this project
+## Overview
 
-* Box modelling
-* Flex
-* Sizing hack for rem unit preference
+This is the first web design work in which most of essential concepts have been employed.
 
-### How it works
+### Built With
 
-It's a responsive 404 page based in one breakpoints: mobile and tablet/desktop (minimum width of 768px).
+- HTML + CSS
+- Box modelling
+- Mobile first
 
+## Features
+
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U) was to build an application to complete the given user stories.
+
+## Acknowledgements
+
+- Basic web design concepts.
+
+## Contact
+
+- Website [TinexLab](https://tinexlab.vercel.app)
+- GitHub [@tinoreyna1984](https://github.com/tinoreyna1984)
+- Twitter [@tinoreyna1984](https://twitter.com/tinoreyna1984)
