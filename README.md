@@ -4,7 +4,7 @@ Solution for a challenge from [Devchallenges.io](http://devchallenges.io).
 
 [Demo](https://tino-devchallenges-01.netlify.app) | 
 [Solution](https://github.com/tinoreyna1984/devchallenges-01) | 
-[Challenge](https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U)
+[Challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY)
 
 ## Table of Contents
 
@@ -26,7 +26,7 @@ This is the first web design work in which most of essential concepts have been 
 
 ## Features
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U) was to build an application to complete the given user stories.
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
 
 ## Acknowledgements
 
