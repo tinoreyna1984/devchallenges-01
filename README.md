@@ -21,8 +21,10 @@ This is the first web design work in which most of essential concepts have been 
 ### Built With
 
 - HTML + CSS
+- SASS
 - Box modelling
 - Mobile first
+- Gulp automation for build, code minifying and image improvement
 
 ## Features
 
@@ -30,7 +32,7 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Acknowledgements
 
-- Basic web design concepts.
+- My teachers Juan de la Torre and Fernando Herrera.
 
 ## Contact
 
