@@ -1,0 +1,21 @@
+/*************** footer ***************/
+
+@use "base/variables" as v;
+@use "base/mixins" as m;
+
+footer {
+  .footer-text {
+    font-family: v.$montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.4rem;
+    line-height: 1.7rem;
+    text-align: center;
+    color: #BDBDBD;
+
+    .username {
+      text-decoration: underline;
+      font-weight: bold;
+    }
+  }
+}

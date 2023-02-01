@@ -1,0 +1,101 @@
+/*************** content ***************/
+
+@use "base/variables" as v;
+@use "base/mixins" as m;
+
+main {
+  margin: 6.4rem 1rem 11.4rem 2rem;
+  display: flex;
+  flex-direction: column;
+  @include m.tablet{
+    margin: 6.4rem 6rem 11.4rem 4rem;
+  }
+  @include m.desktop {
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin: 10rem 3rem 12rem 3rem;
+  }
+  @include m.desktopXL {
+    margin: 15rem 6rem 15rem 5rem;
+  }
+  @include m.desktopXXL {
+    margin: 20rem 10.8rem 31rem 7rem;
+  }
+
+  picture > * {
+    width: 100%;
+    @include m.tablet {
+      width: 105rem;
+      padding-right: 1.5rem;
+    }
+    @include m.desktop {
+      padding-right: 3rem;
+    }
+    @include m.desktopXL {
+      padding-right: 6rem;
+    }
+    @include m.desktopXXL {
+      padding-right: 10rem;
+    }
+  }
+
+  .message {
+    margin-top: 7rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    @include m.tablet {
+      margin-top: 10rem;
+    }
+    @include m.desktop{
+        margin-top: unset;
+    }
+
+    h2 {
+      font-family: v.$space-mono;
+      font-style: normal;
+      font-weight: 700;
+      font-size: 4.8rem;
+      line-height: 7.1rem;
+      letter-spacing: -0.035em;
+      color: #333333;
+      @include m.desktopXL {
+        font-size: 6.4rem;
+        line-height: 9.5rem;
+      }
+    }
+
+    p {
+      margin-top: 3rem;
+      margin-bottom: 6rem;
+      font-family: v.$space-mono;
+      font-style: normal;
+      font-weight: 400;
+      font-size: 1.8rem;
+      line-height: 2.7rem;
+      letter-spacing: -0.035em;
+      color: #4f4f4f;
+      @include m.desktopXL {
+        width: 38rem;
+        font-size: 2.4rem;
+        line-height: 3.6rem;
+      }
+    }
+
+    a {
+      padding: 2.4rem 4.3rem;
+      width: fit-content;
+      background-color: #333333;
+      font-family: v.$space-mono;
+      font-style: normal;
+      font-weight: 700;
+      font-size: 1.4rem;
+      line-height: 2.1rem;
+      letter-spacing: -0.035em;
+      text-decoration: none;
+      text-transform: uppercase;
+      color: #ffffff;
+    }
+  }
+}
